@@ -68,31 +68,33 @@
 
    ![image-20250112174957230](./imgs/image-20250112174957230.png)
 
-## EdgeTTS_Portable (EN)
+## EdgeTTS_Portable
+
+### EdgeTTS_Portable (EN)
 
 :o: Networking required (relies on Microsoft TTS service)
 
 > :warning: libs must be in the same folder as the TouchDesigner project files (including the EdgeTTS_Portable plugin)
 
-![image-20250304164745564](.\imgs\image-20250304164745564.png)
+![image-20250304164745564](./imgs/image-20250304164745564.png)
 
 1. Text input text
 2. Click `confirm` to generate and play the voice.
 3. Select `Voices` to change the voice tone (the bottom will show that the voice tone is male/female).
 
-![image-20250304164345569](.\imgs\image-20250304164345569.png)
+![image-20250304164345569](./imgs/image-20250304164345569.png)
 
-## EdgeTTS_Portable (中文)
+### EdgeTTS_Portable (中文)
 
 :o: 需要联网 (依赖微软 TTS 服务)
 
 > :warning: libs 必须和 TouchDesigner 工程文件 (包括 EdgeTTS_Portable 插件) 放在相同的文件夹
 
-![image-20250304164745564](.\imgs\image-20250304164745564.png)
+![image-20250304164745564](./imgs/image-20250304164745564.png)
 
 1. Text 输入文字
 2. 点击 `confirm` 即可生成语音并播放
 3. 可选 `Voices` 更改不同的音色 (下方会显示选择音色是男声/女生)
 
-![image-20250304164345569](.\imgs\image-20250304164345569.png)
+![image-20250304164345569](./imgs/image-20250304164345569.png)
 
